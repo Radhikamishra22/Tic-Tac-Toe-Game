@@ -17,4 +17,7 @@ Welcome to the Tic-Tac-Toe game! This isa simple two-player game where you can e
 - CSS
 - JavaScript (Factory Functions and Module pattern)
 
+## Demo
 
+You can check out a live demo of this Tic-Tac-Toe game [here]
+(https://radhikamishra22.github.io/Tic-Tac-Toe-Game)
